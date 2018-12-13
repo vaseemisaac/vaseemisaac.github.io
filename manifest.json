@@ -1,0 +1,21 @@
+{
+  "short_name": "Vaseem",
+  "name": "Vaseem Blog",
+  "icons": [
+    {
+      "src": "/img/192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/img/512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/?source=pwa",
+  "background_color": "#f49140",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#f49140"
+}
