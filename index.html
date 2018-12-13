@@ -1211,6 +1211,14 @@
     <script src="js/form-validator.min.js"></script>
     <script src="js/contact-form-script.js"></script>   
     <script src="js/main.js"></script>
-    
+
+
+    <script>
+      if('serviceWorker' in navigator) {
+        navigator.serviceWorker
+                .register('/js/sw.js')
+                .then(function() { console.log("Service Worker Registered"); });
+      }
+    </script>
   </body>
 </html>
