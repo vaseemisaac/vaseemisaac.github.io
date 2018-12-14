@@ -1,6 +1,6 @@
 {
-  "short_name": "Vaseem",
-  "name": "Vaseem Blog",
+  "short_name": "a2hs",
+  "name": "a2hs Test",
   "icons": [
     {
       "src": "/img/192.png",
@@ -14,8 +14,8 @@
     }
   ],
   "start_url": "/?source=pwa",
-  "background_color": "#f49140",
+  "background_color": "#ffffff",
   "display": "standalone",
   "scope": "/",
-  "theme_color": "#f49140"
+  "theme_color": "#ffffff"
 }
